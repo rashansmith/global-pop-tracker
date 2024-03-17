@@ -8,6 +8,7 @@
 
 ## Preview
 Url: https://global-population-tracker.onrender.com/
+(This project is deployed on a free cloud tier, so it may take a while to load)
 <img width="1431" alt="screenshot_data" src="https://github.com/rashansmith/t-w-d/assets/6632748/901b6e2a-ff3b-457c-99ee-d3bafa466c9a">
 
 
