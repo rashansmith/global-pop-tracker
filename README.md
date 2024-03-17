@@ -5,6 +5,8 @@
 - Color thresholds are used to distinguish between different ranges of populations between countries.
 - I thought this would be a simple yet global Dashboard solution that could provide insight into the world around me. 
 
+## Walkthrough/Demo Video
+- https://www.loom.com/share/7808205569254228b33f164f1f912e59?sid=16bbab7e-4c4c-4a80-87f0-d017e8bcc379
 
 ## Preview
 Url: https://global-population-tracker.onrender.com/
@@ -46,6 +48,7 @@ npm run dev
 
 ## Current App Bugs - Potential Fixes
 - The Filter panel does not refresh to map ater the first filter is chosen.
-- Integrate a more robost login/signup system without localStorage
+- Integrate a more robost login/signup system without localStorage.
+- Country Names not matching inbetween the country.json and the population API causing data not found errors.
 
 
