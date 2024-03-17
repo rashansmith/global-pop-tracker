@@ -7,6 +7,7 @@
 
 
 ## Preview
+Url: https://global-population-tracker.onrender.com/
 <img width="1431" alt="screenshot_data" src="https://github.com/rashansmith/t-w-d/assets/6632748/901b6e2a-ff3b-457c-99ee-d3bafa466c9a">
 
 
@@ -17,8 +18,9 @@
 
 ## Tech Stack
 
-- [Svelte](https://svelte.dev/)
-- [Leaflet](https://react-leaflet.js.org/)
+- [Vite - React Framework](https://vitejs.dev/)
+- [Leaflet - Maps API](https://react-leaflet.js.org/)
+- [Render - Cloud Deployment](https://render.com/)
 
 
 ## Prerequisites
